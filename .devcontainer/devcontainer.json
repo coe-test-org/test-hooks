@@ -1,0 +1,6 @@
+{
+  "name": "Windows CLI Test",
+  "image": "mcr.microsoft.com/windows/servercore:ltsc2022",
+  "features": {},
+  "remoteUser": "ContainerAdministrator"
+}
